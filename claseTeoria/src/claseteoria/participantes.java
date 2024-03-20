@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 public class Participantes {
 //Guido Javier Martin Garcia
 //
@@ -21,3 +22,9 @@ public class Participantes {
 >>>>>>> 2b0e2fc6e58002e507ddcc6ef41d4a50d5b84b7a
 //Malovini Victor
 >>>>>>> 4e261d8a5dc1e725ba59ace00902dd063cc98c17
+=======
+public class Participantes {
+//Guido Javier Martin Garcia
+//Daiana Sosa Carranza
+}
+>>>>>>> 133c5f553802b634a49016087c68074f29ee656a
